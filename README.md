@@ -63,7 +63,6 @@ For more examples, check out the `/example` folder in the [GitHub repository](ht
 - **Support**: As the package author, I’ll aim to respond to issues within a week.
 
 Happy coding!
-```
 
 
 
