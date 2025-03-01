@@ -22,7 +22,7 @@ No fluff, just the essentials!
 1. Add the package to your `pubspec.yaml`:
    ```yaml
    dependencies:
-     simple_math_utils: ^1.0.0
+     simple_math_utils: ^1.0.1
    ```
 2. Run:
    ```bash
