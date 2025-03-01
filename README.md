@@ -1,4 +1,3 @@
-```markdown
 # Simple Math Utils
 
 A lightweight Dart package providing basic mathematical utilities for everyday use.
@@ -23,7 +22,7 @@ No fluff, just the essentials!
 1. Add the package to your `pubspec.yaml`:
    ```yaml
    dependencies:
-     simple_math_utils: ^0.0.1
+     simple_math_utils: ^1.0.0
    ```
 2. Run:
    ```bash
