@@ -54,19 +54,17 @@ void main() {
 }
 ```
 
-For more examples, check out the `/example` folder in the [GitHub repository](https://github.com/yourusername/simple_math_utils).
+For more examples, check out the `/example` folder in the [GitHub repository](https://github.com/Syed722528/simple_math_utils.git).
 
 ## Additional Information
 
 - **Documentation**: Full API details are available in the code comments and on [pub.dev](https://pub.dev/packages/simple_math_utils) once published.
-- **Contributing**: Want to add a feature? Fork the repo, make your changes, and submit a pull request on [GitHub](https://github.com/yourusername/simple_math_utils).
-- **Issues**: Found a bug? Report it on the [GitHub Issues page](https://github.com/yourusername/simple_math_utils/issues).
+- **Contributing**: Want to add a feature? Fork the repo, make your changes, and submit a pull request on [GitHub](https://github.com/Syed722528/simple_math_utils.git).
+- **Issues**: Found a bug? Report it on the [GitHub Issues page](https://github.com/Syed722528/simple_math_utils.git/issues).
 - **Support**: As the package author, I’ll aim to respond to issues within a week.
 
 Happy coding!
 ```
-
----
 
 
 
