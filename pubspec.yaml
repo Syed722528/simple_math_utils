@@ -1,7 +1,7 @@
 name: simple_math_utils
 description: A simple dart package for basic math operations
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Syed722528/simple_math_utils.git
 
 environment:
   sdk: ^3.7.0
